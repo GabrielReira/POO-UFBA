@@ -1,2 +1,2 @@
 # POO-UFBA
-Repositório para armazenar as atividades desenvolvidas na disciplina de Programação Orientada a Objetos (POO) da Univervisade Federal da Bahia (UFBA).
+Repositório para armazenar as minhas atividades desenvolvidas na disciplina de Programação Orientada a Objetos (POO) da Universidade Federal da Bahia (UFBA).
